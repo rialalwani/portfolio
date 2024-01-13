@@ -1,0 +1,77 @@
+#intro{
+    margin-top:-220px;
+    color:black;
+}
+nav{
+    background-color:rgba(0, 187, 255,0.5);
+    opacity: 0.5;
+    position:relative;
+}
+ul{
+    list-style-type:none;
+    margin-top: -60px;
+    margin-bottom:300px;
+    padding-top: 20px;;
+    padding-bottom:20px;
+    position:relative;
+}
+li,a{
+    display:inline;
+    padding-left: 90px;
+    color:black;
+    font:bold;
+}
+li a:hover{
+    background-color:gainsboro;
+
+}
+img{
+    margin: top 10px;
+    width: 100px;
+   
+     height:100px;
+}
+
+body{
+    color:black;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.FirstParagraph,.SecondParagraph{
+    word-spacing: 10px;
+}
+#contct{
+    text-align: center;
+    margin: top 40px;
+}
+.thirdpara
+{
+    display: block;
+    word-spacing:10px;
+}
+.icons{
+    font-size:40px;
+    margin-left:612px;
+    
+}
+#fb{
+    color: dodgerblue;
+}
+#insta{
+    color:deeppink;
+}
+#linkedin{
+    color:deepskyblue;
+}
+.link1{
+    position: relative;
+    margin-left: 0%;
+    padding-left: 0px;
+}
+#mail,#tel
+{
+    position:relative;
+    margin-left: 1px;
+    padding-left: 0px;
+}
