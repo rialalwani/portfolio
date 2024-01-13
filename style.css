@@ -59,7 +59,15 @@ body{
 {
     .icons{
     font-size:30px;
-    
+    }
+    #fb{
+        margin-left:250px;
+    }
+    #insta{
+        margin-left:20px;
+    }
+    #linkedin{
+        margin-left:20px;
     }
 }
 #fb{
