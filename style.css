@@ -53,6 +53,11 @@ body{
 .icons{
     font-size:40px;
     margin-left:612px;
+    @media only screen and(max-width:600px)
+    {
+        margin-left:250 px;
+        padding-left:0px;
+    }
     
 }
 #fb{
