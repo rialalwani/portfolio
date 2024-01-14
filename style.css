@@ -57,6 +57,7 @@ body{
     {
         margin-left:250 px;
         padding-left:0px;
+        items-align: horizontal;
     }
     
 }
