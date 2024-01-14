@@ -53,21 +53,34 @@ body{
 .icons{
     font-size:40px;
     margin-left:612px;
-    @media only screen and(max-width:600px)
-    {
-        margin-left:300px;
-        padding-left:0px;
-    }
     
 }
 #fb{
     color: dodgerblue;
+    @media only screen and(max-width:600px)
+    {
+        color:dodgerblue;
+        margin-left:250 px;
+        padding-left:0px;
+    }
 }
 #insta{
     color:deeppink;
+    media only screen and(max-width:600px)
+    {
+        color:deeppink;
+        margin-left:20px;
+        padding-left:0px;
+    }
 }
 #linkedin{
     color:deepskyblue;
+    media only screen and(max-width:600px)
+    {
+        color:deepskyblue;
+        margin-left:20px;
+        padding-left:0px;
+    }
 }
 .link1{
     position: relative;
