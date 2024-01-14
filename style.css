@@ -66,7 +66,7 @@ body{
 }
 #insta{
     color:deeppink;
-    media only screen and(max-width:600px)
+    @media only screen and(max-width:600px)
     {
         color:deeppink;
         margin-left:20px;
@@ -75,7 +75,7 @@ body{
 }
 #linkedin{
     color:deepskyblue;
-    media only screen and(max-width:600px)
+    @media only screen and(max-width:600px)
     {
         color:deepskyblue;
         margin-left:20px;
