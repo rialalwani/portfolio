@@ -50,26 +50,48 @@ body{
     display: block;
     word-spacing:10px;
 }
-.icons{
-    font-size:40px;
-    width:50%;
-    height:auto;
-    @media only screen and(max-width:600px)
-    {
-        font-size:30px;
-         width:50%;
-         height:auto;
-    }
-}
 #fb{
     color: dodgerblue;
+    font-size:30px;
+    margin-left:130px;
+}
+@media only screen and (min-width:768px) {
+    #fb
+    {
+        color:dodgerblue;
+        font-size:40px;
+        margin-left:612px;
+    }
 }
 #insta{
-    color:deeppink;
+   color:deeppink;
+    font-size:30px;
+    margin-left:10px;
+}
+@media only screen and (min-width:768px)
+{
+    #insta
+    {
+        color:deeppink;
+        font-size:40px;
+        margin-left:15px;
+    }
 }
 #linkedin{
     color:deepskyblue;
+    font-size:30px;
+    margin-left:10px;
 }
+@media only screen and (min-width:768px)
+{
+    #linkedin
+    {
+        color:deepskyblue;
+        font-size:40px;
+        margin-left:15px;
+    }
+    
+} 
 .link1{
     position: relative;
     margin-left: 0%;
