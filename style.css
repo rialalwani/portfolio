@@ -53,12 +53,6 @@ body{
 .icons{
     font-size:40px;
     margin-left:612px;
-    @media only screen and(max-width:600px)
-    {
-        margin-left:100px;
-        padding-left:0px;
-        items-align: horizontal;
-    }
     
 }
 #fb{
@@ -66,8 +60,8 @@ body{
     @media only screen and(max-width:600px)
     {
         color:dodgerblue;
-        margin-left:100px;
-        padding-left:0px;
+        width:50%;
+        height:auto;
     }
 }
 #insta{
@@ -75,8 +69,8 @@ body{
     @media only screen and(max-width:600px)
     {
         color:deeppink;
-        margin-left:20px;
-        padding-left:0px;
+        width:50%;
+        height:auto;
     }
 }
 #linkedin{
@@ -84,8 +78,8 @@ body{
     @media only screen and(max-width:600px)
     {
         color:deepskyblue;
-        margin-left:20px;
-        padding-left:0px;
+        width:50%;
+        height:auto;
     }
 }
 .link1{
