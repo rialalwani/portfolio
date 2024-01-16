@@ -52,35 +52,18 @@ body{
 }
 .icons{
     font-size:40px;
-    margin-left:612px;
     
 }
 #fb{
     color: dodgerblue;
-    @media only screen and(max-width:600px)
-    {
-        color:dodgerblue;
-        width:50%;
-        height:auto;
-    }
 }
 #insta{
     color:deeppink;
-    @media only screen and(max-width:600px)
-    {
-        color:deeppink;
-        width:50%;
-        height:auto;
-    }
+    
 }
 #linkedin{
     color:deepskyblue;
-    @media only screen and(max-width:600px)
-    {
-        color:deepskyblue;
-        width:50%;
-        height:auto;
-    }
+    
 }
 .link1{
     position: relative;
